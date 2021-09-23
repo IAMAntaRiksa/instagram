@@ -1,5 +1,5 @@
 # instagram
-![Screenshot_1632360806](https://user-images.githubusercontent.com/32923555/134445973-3e327bf5-6fd9-4870-85a4-558db7b34464.png)
+https://user-images.githubusercontent.com/32923555/134445973-3e327bf5-6fd9-4870-85a4-558db7b34464.png
 
 
 A new Flutter project.
