@@ -43,13 +43,6 @@ List<Account> accounts = [
     followingCount: 34,
     postCount: 5,
   ),
-  Account(
-    username: 'ulil Ambri',
-    bio: 'Hallo world is sahli',
-    followersCount: 212,
-    followingCount: 34,
-    postCount: 5,
-  ),
 ];
 
 // List<Post> posts = [

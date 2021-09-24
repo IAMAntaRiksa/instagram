@@ -29,7 +29,5 @@ flutter:
 
   assets:
     - assets/avatars/
-    - assets/feeds/
     - assets/icons/
     - assets/logo/
-    - assets/search/
