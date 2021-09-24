@@ -22,8 +22,10 @@ class UiInstagramWidget extends StatelessWidget {
             SliverList(
                 delegate: SliverChildListDelegate([
               getBody(),
-              for (var i = 0; i < accounts.length; i++)
-                PostFedd(usersAccount: accounts[i])
+              Container(
+                height: 640,
+                child: PostFedd(),
+              )
             ]))
           ],
         ),
