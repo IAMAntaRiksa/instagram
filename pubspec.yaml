@@ -13,10 +13,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+
 
   cupertino_icons: ^1.0.2
   equatable: ^2.0.3
+  numeral: ^1.2.5
   font_awesome_flutter: ^9.1.0
 
 dev_dependencies:

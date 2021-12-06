@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instagram/ui/ui.dart';
+import 'package:instagram/router/routes.dart';
 
 void main() => runApp(const MyApp());
 
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: whiteColor,
       ),
       debugShowCheckedModeBanner: false,
-      home: UiInstagramWidget(),
+      onGenerateRoute: Routes.generateRoute,
     );
   }
 }
